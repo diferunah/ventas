@@ -1,0 +1,5 @@
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\PROYECTO\SistemaRentas\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\PROYECTO\SistemaRentas\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\PROYECTO\SistemaRentas\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojResolveAssemblyReference.cache
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\PROYECTO\SistemaRentas\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+C:\Users\Nikey\Dropbox\Trabajos de la Unah\LENGUAJES DE PROGRAMACION 3\PROYECTO\SistemaRentas\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
